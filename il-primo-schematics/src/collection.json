@@ -4,6 +4,11 @@
     "il-primo-schematics": {
       "description": "A blank schematic.",
       "factory": "./il-primo-schematics/index#ilPrimoSchematics"
+    },   
+    "my-component": {
+      "description": "Create new component.",
+      "factory": "./il-primo-schematics/index#myComponentSchematics",
+      "schema": "./my-component/schema.json"
     }
   }
 }
