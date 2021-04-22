@@ -7,8 +7,8 @@
     },   
     "my-component": {
       "description": "Create new component.",
-      "factory": "./il-primo-schematics/index#myComponentSchematics",
-      "schema": "./my-component/schema.json"
+      "factory": "./il-primo-schematics/my-component/index#myComponentSchematics",
+      "schema": "./il-primo-schematics/my-component/schema.json"
     }
   }
 }
